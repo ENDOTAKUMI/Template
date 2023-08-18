@@ -1,7 +1,7 @@
-name: 新規タスク
-description: 新規タスク用Issueを作成する
-title: "[Feature]: "
-labels: ["🌟feature"]
+name: 🛠️新規タスク
+description: 誤字脱字の修正や、機能面の細かい修正などはこちら
+title: "[Fix]: "
+labels: ["🛠️fix"]
 body:
   - type: markdown
     attributes:
@@ -15,6 +15,10 @@ body:
       placeholder:
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        以下、オプションです。よろしければご記入ください。
   - type: textarea
     id: task_list
     attributes:
