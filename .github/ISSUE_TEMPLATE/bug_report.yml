@@ -1,5 +1,5 @@
-name: 不具合報告
-description: File a bug report
+name: 🕷️不具合報告
+description: バグ報告などはこちら
 title: "[BUG]: "
 labels: ["🕷️bug"]
 body:
