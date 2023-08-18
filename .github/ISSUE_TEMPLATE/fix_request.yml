@@ -15,6 +15,10 @@ body:
       placeholder:
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        以下、オプションです。よろしければご記入ください。
   - type: textarea
     id: task_list
     attributes:
