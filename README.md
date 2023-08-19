@@ -1,5 +1,6 @@
 # template
 テンプレート用です。
+現在開発中のためうまく動作しない場合があります。
 
 このGitHub Actionsは以下の設定してから使用する。
 `Actions permissions`
